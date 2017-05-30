@@ -1,4 +1,4 @@
-#PlexMX
+# PlexMX
 
 ## Introduction
 PlexMX (pronounced "PlexMex")This python script utilizes the Plex server API to identify and email users of the newly added files, an optional webpage with additional information is also generated
